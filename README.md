@@ -1,2 +1,2 @@
 # Global_Shrub_grassland_2015-2024
-Code and data repository for the study “Latitude-dependent carbon cycle responses to warming in global shrub–grasslands”.
+Code and data repository for the study “Latitude-dependent carbon cycle responses to warming in global shrub–grasslands”. This repository contains the scripts and processed datasets used to quantify global shrub–grassland carbon-cycle responses to warming, analyze underlying hydroclimatic mechanisms, and reproduce the main figures and results presented in the manuscript.
